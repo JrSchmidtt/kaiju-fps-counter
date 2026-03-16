@@ -1,0 +1,9 @@
+{
+    "Name": "FPS Counter",
+    "PackageName": "fpscounter",
+    "Description": "Mostra o FPS atual no titulo da janela do editor.",
+    "Version": 0.002,
+    "Author": "JrSchmidtt",
+    "Website": "https://kaijuengine.com/editor/plugins/",
+    "Enabled": true
+}
