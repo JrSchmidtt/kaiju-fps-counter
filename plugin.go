@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	pluginKey      = "github.com/schmidt/kaiju-editor-fps-counter"
+	pluginKey      = "github.com/JrSchmidtt/kaiju-fps-counter/"
 	sampleInterval = 0.5
 	titlePrefix    = "Kaiju Editor"
 )

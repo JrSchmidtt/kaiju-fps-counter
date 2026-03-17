@@ -1,9 +1,9 @@
 {
     "Name": "FPS Counter",
     "PackageName": "fpscounter",
-    "Description": "Mostra o FPS atual no titulo da janela do editor.",
+    "Description": "A simple plugin for the Kaiju Engine that displays the current FPS in the editor window title.",
     "Version": 0.002,
     "Author": "JrSchmidtt",
-    "Website": "https://kaijuengine.com/editor/plugins/",
+    "Website": "https://github.com/JrSchmidtt/kaiju-fps-counter/",
     "Enabled": true
 }
